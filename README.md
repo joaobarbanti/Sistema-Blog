@@ -1,8 +1,8 @@
 ##  📱 Blog de Viagens 
 
-###Blog de viagens feito usando node,react,banco de dados mongo e UI component. 
-##O blog permite que você se registre no mesmo e assim consiga fazer uma postagem, 
-##após feita a postagem você pode editar ou apagar a mesma, cada usuário tem sua postagem e só consegue modificar ela, o blog tem uma aba profile onde cada usuário consegue ver todas suas postagens e informações.
+### Blog de viagens feito usando node,react,banco de dados mongo e UI component. 
+## O blog permite que você se registre no mesmo e assim consiga fazer uma postagem, 
+## após feita a postagem você pode editar ou apagar a mesma, cada usuário tem sua postagem e só consegue modificar ela, o blog tem uma aba profile onde cada usuário consegue ver todas suas postagens e informações.
 
 ## 🖥️ Algumas Telas Do Projeto
 ![Captura de Tela (23)](https://user-images.githubusercontent.com/92438875/209226649-0eb75c01-75ac-4bb6-9e02-cdaf01bdd3f9.png)
